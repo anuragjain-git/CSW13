@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+}
+
+img {
+    padding-top: 50px;
+}
+
+h1,h3 {
+    font-family: Arial ;
+}
+
+li {
+    text-align: left;
+}
+
+.div-1 {
+    width: 350px;
+    height: 380px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+
+.div-2 {
+    width:150px;
+    margin: auto;
+}
+
+.Cuisines-list {
+    /* default padding-left is 40px */
+    padding-left: 0;
+}
+
+.invisible {
+    display: none;
+}
+
+.setAttribute {
+    href:itsanuragjain@gmail.com;
+}
